@@ -64,7 +64,7 @@ const iniya = {
 ## github stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=xnxya&hide_border=true&background=1A1B27&ring=CBA6F7&fire=F5C2E7&currStreakLabel=F5C2E7&sideLabels=CDD6F4&dates=BCC0CC&currStreakNum=CDD6F4&sideNums=CDD6F4&stroke=CBA6F7&border=CBA6F7" width="95%" />
+  <img src="https://streak-stats.demolab.com?user=xnxya&hide_border=true&background=1A1B27&ring=CBA6F7&fire=F5C2E7&currStreakLabel=F5C2E7&sideLabels=CDD6F4&dates=BCC0CC&currStreakNum=CDD6F4&sideNums=CDD6F4&stroke=CBA6F7&border=CBA6F7" width="70%" />
 </p>
 
 <!-- optional: the snake eating your contributions.
