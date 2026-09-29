@@ -20,8 +20,6 @@
 
 ---
 
-<img align="right" width="200" src="https://api.dicebear.com/9.x/pixel-art/png?seed=mia&hair=long12&skinColor=c68642&hairColor=6b4423&accessoriesProbability=0&glassesProbability=0&hatProbability=0&size=240" />
-
 Computer Science student @ Nanyang Technological University — who has accepted
 that *"it works on my machine"* is not a valid debugging strategy.
 
@@ -67,11 +65,6 @@ const iniya = {
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=xnxya&hide_border=true&background=1A1B27&ring=CBA6F7&fire=F5C2E7&currStreakLabel=F5C2E7&sideLabels=CDD6F4&dates=BCC0CC&currStreakNum=CDD6F4&sideNums=CDD6F4&stroke=CBA6F7&border=CBA6F7" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xnxya&show_icons=true&hide_border=true&count_private=true&title_color=F5C2E7&icon_color=CBA6F7&text_color=CDD6F4&bg_color=1A1B27&border_color=CBA6F7&card_width=500" height="215" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnxya&layout=compact&hide_border=true&title_color=F5C2E7&text_color=CDD6F4&bg_color=1A1B27&border_color=CBA6F7&langs_count=8&card_width=350" height="215" />
 </p>
 
 <!-- optional: the snake eating your contributions.
