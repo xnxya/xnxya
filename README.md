@@ -11,7 +11,7 @@
 
 <!-- 🌸 animated typing header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=800&color=CBA6F7&center=true&vCenter=true&width=650&height=90&lines=hi%2C+im+Iniya!+%F0%9F%8C%B8;CS+student+%40+NTU;AI%2FML+%C2%B7+Full-Stack+%C2%B7+Data" alt="hi, im Iniya!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=800&color=CBA6F7&center=true&vCenter=true&width=650&height=90&lines=hi%2C+im+Iniya!;CS+student+%40+NTU;AI%2FML+%C2%B7+Full-Stack+%C2%B7+Data" alt="hi, im Iniya!" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ---
 
-<img align="right" width="200" src="https://media.giphy.com/media/RgwVpiIPbrxJFM5T3m/giphy.gif" />
+<img align="right" width="200" src="https://api.dicebear.com/9.x/pixel-art/png?seed=mia&hair=long12&skinColor=c68642&hairColor=6b4423&accessoriesProbability=0&glassesProbability=0&hatProbability=0&size=240" />
 
 Computer Science student @ Nanyang Technological University — who has accepted
 that *"it works on my machine"* is not a valid debugging strategy.
@@ -33,7 +33,7 @@ fixed, and occasionally understood.
 
 <br clear="right"/>
 
-## 🌷 a little more about me...
+## a little more about me...
 
 ```js
 const iniya = {
@@ -45,7 +45,7 @@ const iniya = {
 };
 ```
 
-## 🌸 tech stack
+## tech stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-CBA6F7?style=for-the-badge&logo=typescript&logoColor=white&labelColor=313244)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F5C2E7?style=for-the-badge&logo=javascript&logoColor=white&labelColor=313244)
@@ -63,15 +63,15 @@ const iniya = {
 ![Git](https://img.shields.io/badge/Git-F5C2E7?style=for-the-badge&logo=git&logoColor=white&labelColor=313244)
 ![Firebase](https://img.shields.io/badge/Firebase-CBA6F7?style=for-the-badge&logo=firebase&logoColor=white&labelColor=313244)
 
-## 🌸 github stats
+## github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xnxya&show_icons=true&hide_border=true&count_private=true&title_color=F5C2E7&icon_color=CBA6F7&text_color=CDD6F4&bg_color=1A1B27&border_color=CBA6F7&card_width=450" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=xnxya&hide_border=true&background=1A1B27&ring=CBA6F7&fire=F5C2E7&currStreakLabel=F5C2E7&sideLabels=CDD6F4&dates=BCC0CC&currStreakNum=CDD6F4&sideNums=CDD6F4&stroke=CBA6F7&border=CBA6F7" height="180" />
+  <img src="https://streak-stats.demolab.com?user=xnxya&hide_border=true&background=1A1B27&ring=CBA6F7&fire=F5C2E7&currStreakLabel=F5C2E7&sideLabels=CDD6F4&dates=BCC0CC&currStreakNum=CDD6F4&sideNums=CDD6F4&stroke=CBA6F7&border=CBA6F7" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnxya&layout=compact&hide_border=true&title_color=F5C2E7&text_color=CDD6F4&bg_color=1A1B27&border_color=CBA6F7&langs_count=8&card_width=450" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xnxya&show_icons=true&hide_border=true&count_private=true&title_color=F5C2E7&icon_color=CBA6F7&text_color=CDD6F4&bg_color=1A1B27&border_color=CBA6F7&card_width=500" height="215" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnxya&layout=compact&hide_border=true&title_color=F5C2E7&text_color=CDD6F4&bg_color=1A1B27&border_color=CBA6F7&langs_count=8&card_width=350" height="215" />
 </p>
 
 <!-- optional: the snake eating your contributions.
@@ -81,7 +81,7 @@ const iniya = {
 </p>
 -->
 
-## 🌷 let's connect
+## let's connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/iniya-murali-6a095a277/">
